@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-* 👨‍💻 **All of my projects:** [My Portfolio](https://dhriti09.netlify.app/dhriti.html)
+* 👨‍💻 **All of my projects:** [My Portfolio](https://dhriti09.netlify.app/index.html)
 * 🎓 **Pre-final year CS undergraduate at United Institute of Technology.**
 * 🌱 **Continuously learning and exploring new technologies.**
 * 💻 **Love Web Dev, C++ & Open Source.**

@@ -58,15 +58,19 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dhriti09&show_icons=true&theme=tokyonight" alt="Dhriti's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhriti09&theme=tokyonight" alt="Dhriti's Streak" />
+<a href="https://github.com/dhriti09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhriti09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/dhriti09">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhriti09&theme=tokyonight" />
+</a>
 </p>
 
 ---
 
 ### 📊 Contribution Graph
 
-[dhriti's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dhriti09&theme=tokyonight)
+![Dhriti's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhriti09&theme=tokyonight)
 
 ---
 

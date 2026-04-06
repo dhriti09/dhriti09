@@ -66,7 +66,7 @@
 
 ### 📊 Contribution Graph
 
-(https://github-readme-activity-graph.vercel.app/graph?username=dhriti09&theme=tokyonight)
+[dhriti's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dhriti09&theme=tokyonight)
 
 ---
 

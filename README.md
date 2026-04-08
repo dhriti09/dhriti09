@@ -13,7 +13,7 @@
 * 🌱 **Continuously learning and exploring new technologies.**
 * 💻 **Love Web Dev, C++ & Open Source.**
 * 🛠️ **Currently building:** [Hyperlocal Festive-Aware Demand AI]
-* 📄 **More about my experience:** [View Resume](dhritiyadav0919@gmail.com)
+* 📄 **More about my experience:** [View Resume](resume.pdf)
 * 📫 **Reach me:** dhritiyadav0919@gmail.com
 
 ---

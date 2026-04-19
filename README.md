@@ -1,7 +1,7 @@
 
 # 👋 Hey there!, I'm Dhriti!
 
-🚀 **Aspiring Software Developer | Full Stack Developer | Pre-final Year CSE @ UIT | India**
+🚀 **Aspiring Software Developer | Frontend -devoloper | Learning Full Stack Developement | Pre-final Year CSE @ UIT | India**
 💡 *Building impactful software, learning everyday, loving open source!*
 
 ---

@@ -54,6 +54,8 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 ---

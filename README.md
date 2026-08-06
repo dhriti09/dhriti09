@@ -398,7 +398,6 @@ Learning:
 
 Building:
   - Hyperlocal Festive-Aware Demand AI
-  - AI Powered Web Applications
 
 Exploring:
   - Computer Vision

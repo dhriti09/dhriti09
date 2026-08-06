@@ -357,15 +357,6 @@ Completed institutional training focused on Python programming fundamentals and 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhriti09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 

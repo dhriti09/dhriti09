@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=280&section=header&text=Dhriti%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20&%20ML%20Practitioner&descSize=20&descAlignY=62&animation=fadeIn&fontAlign=50" width="100%" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Undergraduate+at+UIT;Software+Developer+%26+Machine+Learning+Engineer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Intelligent+Applications">
-    <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Undergraduate+at+UIT;Software+Developer+%26+Machine+Learning+Engineer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Intelligent+Applications" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Final+Year+Computer+Science+Student+at+UIT;Software+Developer+%26+Machine+Learning+Engineer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Intelligent+Applications">
+    <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Final+Year+Computer+Science+Student+at+UIT;Software+Developer+%26+Machine+Learning+Engineer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Intelligent+Applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 ## 🚀 About Me
 
 <p align="justify">
-I am a Computer Science and Engineering undergraduate at the United Institute of Technology[cite: 1], Prayagraj[cite: 1], with a strong foundation in software engineering, data structures and algorithms, and applied machine learning. My technical capabilities span full-stack web development, backend API creation, computer vision, and predictive modeling using modern Python and JavaScript ecosystems. Driven by a passion for solving complex computational problems, I have successfully tackled over 200+ DSA challenges[cite: 1] and built end-to-end applications ranging from real-time gesture control systems to intelligent data predictors.
+I am a final-year Computer Science and Engineering student at the United Institute of Technology[cite: 1], Prayagraj[cite: 1], with a strong foundation in software engineering, data structures and algorithms, and applied machine learning. My technical capabilities span full-stack web development, backend API creation, computer vision, and predictive modeling using modern Python and JavaScript ecosystems. Driven by a passion for solving complex computational problems, I have successfully tackled over 200+ DSA challenges[cite: 1] and built end-to-end applications ranging from real-time gesture control systems to intelligent data predictors.
 </p>
 
 * **Core Focus:** Software Engineering, Machine Learning, Full Stack Development, & Algorithmic Problem Solving

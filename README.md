@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=280&section=header&text=Dhriti%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20&%20Frontend%20Developer&descSize=20&descAlignY=62&animation=fadeIn&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=280&section=header&text=Dhriti%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20&%20ML%20Practitioner&descSize=20&descAlignY=62&animation=fadeIn&fontAlign=50" width="100%" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Final+Year+CSE+Undergraduate+at+UIT;Frontend+Developer+%26+Full+Stack+Learner;Building+Impactful+Software+%26+Learning+Everyday;Open+Source+Enthusiast">
-    <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Final+Year+CSE+Undergraduate+at+UIT;Frontend+Developer+%26+Full+Stack+Learner;Building+Impactful+Software+%26+Learning+Everyday;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Undergraduate+at+UIT;Software+Developer+%26+Machine+Learning+Engineer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Intelligent+Applications">
+    <img src="https://readme-typing-svg.herokuapp.com?color=9333EA&size=22&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Undergraduate+at+UIT;Software+Developer+%26+Machine+Learning+Engineer;Competitive+Programmer+%26+Problem+Solver;Building+Scalable+Intelligent+Applications" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech_CSE-United_Institute_of_Technology-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=mappin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Prayagraj,_India-4C1D95?style=for-the-badge&logo=mappin&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhriti-yadav-6614002a5" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dhritiyadav0919@gmail.com" target="_blank">
@@ -41,12 +41,12 @@
 ## 🚀 About Me
 
 <p align="justify">
-I am a final-year Computer Science and Engineering undergraduate at the United Institute of Technology, India, serving as an aspiring software developer with a strong focus on frontend engineering and full-stack web development. Passionate about building impactful software, I love exploring web technologies, C++, and contributing to open source. I enjoy continuous daily learning and translating creative concepts into responsive digital experiences.
+I am a Computer Science and Engineering undergraduate at the United Institute of Technology[cite: 1], Prayagraj[cite: 1], with a strong foundation in software engineering, data structures and algorithms, and applied machine learning. My technical capabilities span full-stack web development, backend API creation, computer vision, and predictive modeling using modern Python and JavaScript ecosystems. Driven by a passion for solving complex computational problems, I have successfully tackled over 200+ DSA challenges[cite: 1] and built end-to-end applications ranging from real-time gesture control systems to intelligent data predictors.
 </p>
 
-* **Core Focus:** Frontend Development, Full Stack Web Architecture, & Interactive UI/UX
-* **Engineering Philosophy:** Clean Code, Responsive Design, Continuous Growth, & Community Contribution
-* **Open To:** Software Developer Roles, Frontend Opportunities, & Open Source Collaborations
+* **Core Focus:** Software Engineering, Machine Learning, Full Stack Development, & Algorithmic Problem Solving
+* **Engineering Philosophy:** Clean Code, Scalable Architecture, Performance Optimization, & Continuous Learning
+* **Open To:** Software Developer Roles, AI/ML Engineering Opportunities, & Open Source Collaborations
 
 ---
 
@@ -54,86 +54,111 @@ I am a final-year Computer Science and Engineering undergraduate at the United I
 
 <div align="center">
 
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css&perline=7" />
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,c,html,css&perline=7" />
 
-### Frontend & Design
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma,html,css&perline=6" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css&perline=4" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,php,mysql,mongodb&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,spring,sqlite,mysql,mongodb&perline=6" />
 
-### Cloud, Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render&perline=7" />
+### AI/ML & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,streamlit,render&perline=6" />
 
 </div>
 
 ---
 
-## 🧠 AI / ML & Data Expertise
+## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Data Analysis & Processing** | Intermediate | Utilizing Pandas and NumPy for structured data manipulation and transformation pipelines. |
-| **Machine Learning Foundations** | Intermediate | Implementing predictive algorithms using Scikit-Learn and building localized forecasting tools. |
-| **Data Visualization** | Intermediate | Rendering analytical insights and graphical representations using Matplotlib. |
+| **Predictive Modeling & XGBoost** | Advanced | Designing data classification and regression pipelines using XGBoost, Scikit-Learn[cite: 1], TF-IDF[cite: 1], Pandas, and NumPy[cite: 1]. |
+| **Computer Vision** | Advanced | Implementing real-time hand gesture tracking and computer vision interfaces using OpenCV and MediaPipe[cite: 1]. |
+| **Full-Stack ML Integration** | Intermediate | Deploying machine learning models into interactive web applications via Flask REST APIs, React[cite: 1], and Streamlit[cite: 1]. |
 
 ---
 
 ## 📂 Featured Projects
 
 <details>
-<summary><b>🤖 Hyperlocal Festive-Aware Demand AI</b></summary>
+<summary><b>🖐️ AI Gesture Volume Control</b></summary>
 
 ### Overview
-An intelligent machine learning and web-backed application tailored to predict hyperlocal retail demand surges during festive seasons.
+A real-time computer vision application that detects finger movements via webcam to dynamically control system volume[cite: 1].
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | Python, Scikit-Learn, Pandas, Web Technologies |
-| **Scale** | Targeted small retail analytical data processing |
-| **Performance** | Rapid data computation and prediction workflows |
-| **Security** | Secure local environment isolation and robust data handling |
-| **Impact** | Assisted merchants in optimizing stock and inventory allocation during peak festive cycles |
+| **Stack** | Python, OpenCV, MediaPipe, Pycaw, NumPy[cite: 1] |
+| **Scale** | Real-time webcam frame processing and live hardware control |
+| **Performance** | Smooth volume transition algorithm with optimized spatial distance calculation[cite: 1] |
+| **Security** | Localized execution with safe hardware interface protocols |
+| **Impact** | Provided a touchless, gesture-based alternative for system audio administration |
 
 ### Architecture & Implementation
-Integrated data processing scripts with a clean functional interface to deliver automated demand estimations based on contextual timeline parameters.
+Processed live video frames using OpenCV and tracked hand landmarks with MediaPipe[cite: 1]. Computed Euclidean distances between fingers to map coordinates directly to Windows audio levels via Pycaw and NumPy[cite: 1].
 
-[View Portfolio Project](https://dhriti09.netlify.app/index.html)
+[View Repository](https://github.com/dhriti09)
 
 </details>
 
 <details>
-<summary><b>🌐 Personal Portfolio & Web Showcase</b></summary>
+<summary><b>📰 Fake News Detector</b></summary>
 
 ### Overview
-A fully responsive personal portfolio website showcasing professional background, projects, technical skills, and resume details.
+An intelligent text classification web application designed to evaluate news articles and determine authenticity in real time[cite: 1].
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | HTML5, CSS3, JavaScript, Netlify Deployment |
-| **Scale** | Lightweight multi-page single-page application layout |
-| **Performance** | Optimized asset delivery resulting in near-instant load times |
-| **Security** | Static security headers and secure asset hosting via Netlify |
-| **Impact** | Served as a centralized hub for recruiters and peers to review technical capabilities |
+| **Stack** | Python, Scikit-Learn, TF-IDF, Streamlit[cite: 1] |
+| **Scale** | Text feature extraction and classification across structured news datasets |
+| **Performance** | Rapid inference pipeline with streamlined tokenization and scoring |
+| **Security** | Secure local execution environment with clean input sanitization |
+| **Impact** | Offered users an instant, accessible tool to screen and verify news credibility[cite: 1] |
 
 ### Architecture & Implementation
-Designed with a clean, modern aesthetic utilizing custom CSS styling and interactive JavaScript elements for seamless user navigation.
+Performed extensive text preprocessing and TF-IDF feature extraction[cite: 1] on dataset corpora before training a supervised classification model using Scikit-Learn[cite: 1]. Integrated the classifier into an interactive Streamlit[cite: 1] interface.
 
-[View Portfolio](https://dhriti09.netlify.app/index.html)
+[View Repository](https://github.com/dhriti09)
+
+</details>
+
+<details>
+<summary><b>🌫️ Air Quality Index Predictor</b></summary>
+
+### Overview
+A full-stack predictive system that forecasts Air Quality Index (AQI) values based on multi-variate environmental data parameters[cite: 1].
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Python, Flask, XGBoost, React.js, Pandas, NumPy, REST APIs[cite: 1] |
+| **Scale** | Multi-feature environmental dataset ingestion and processing |
+| **Performance** | Low-latency prediction rendering through decoupled RESTful architecture |
+| **Security** | Structured endpoint communication and secure environment configuration |
+| **Impact** | Delivered actionable environmental insights through an integrated web dashboard |
+
+### Architecture & Implementation
+Preprocessed and analyzed complex environmental indicators using Pandas and NumPy[cite: 1] prior to model training with XGBoost[cite: 1]. Exposed analytical endpoints through a Flask backend seamlessly connected to a React frontend[cite: 1].
+
+[View Repository](https://github.com/dhriti09)
 
 </details>
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Training
 
-### Aspiring Developer & Open Source Contributor
-**Independent Projects & Academic Labs** | *Ongoing*
-* Designed and built interactive frontend web interfaces focusing on responsive user experiences.
-* Developed full-stack prototypes integrating databases like MySQL and MongoDB with Node.js and Python backends.
-* Maintained active coding practice in C++ and engaged in continuous learning through community platforms.
-* **Skills:** JavaScript, React, HTML5, CSS3, Python, C++, Git
+### Web Developer Intern
+**Code Resite Pvt Ltd** | *June 2025 – July 2025*[cite: 1]
+* Developed robust backend APIs and integrated databases to support critical web application features[cite: 1].
+* Utilized Git for effective version control and collaborated closely with team members during backend development sprints[cite: 1].
+* **Skills:** Backend APIs, Databases, Git, Version Control, Web Development[cite: 1]
+
+### Python Training
+**United Institute of Technology** | *June 2023 – July 2023*[cite: 1]
+* Completed intensive Python training covering core programming fundamentals, data structures, and algorithmic problem-solving techniques[cite: 1].
+* **Skills:** Python, Data Structures, Problem Solving[cite: 1]
 
 ---
 
@@ -143,9 +168,9 @@ Designed with a clean, modern aesthetic utilizing custom CSS styling and interac
 
 | Recognition | Details |
 | :--- | :--- |
-| **Coding Platforms** | Active problem-solving profile and ratings maintained across LeetCode and CodeChef. |
-| **Academic Milestone** | Reached final year of B.Tech Computer Science and Engineering at United Institute of Technology. |
-| **Open Source Engagement** | Consistent exploration of open source repositories and toolchain deployments. |
+| **Competitive Programming** | Solved 200+ Data Structures and Algorithms problems across LeetCode and CodeChef[cite: 1]. |
+| **Platform Ratings** | Achieved a LeetCode rating of 1625 and earned a 2-Star CodeChef rating with a peak rating of 1542[cite: 1]. |
+| **Competition Winner** | Winner of the E-BOX Top Coders 2025-26 coding competition[cite: 1]. |
 
 </div>
 
@@ -153,9 +178,10 @@ Designed with a clean, modern aesthetic utilizing custom CSS styling and interac
 
 ## 📜 Certifications
 
-* <img src="https://img.shields.io/badge/Frontend-Web_Development-E34F26?style=flat-square&logo=html5&logoColor=white" />
-* <img src="https://img.shields.io/badge/Python-Data_Science_Toolkit-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-* <img src="https://img.shields.io/badge/Database-MySQL_%26_MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+* <img src="https://img.shields.io/badge/Python-Data_Science_%26_ML-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+* <img src="https://img.shields.io/badge/Full_Stack-Web_Development-232F3E?style=flat-square&logo=react&logoColor=white" />
+* <img src="https://img.shields.io/badge/Database-SQL_%26_NoSQL_Management-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+* <img src="https://img.shields.io/badge/Version_Control-Git_%26_GitHub-F05033?style=flat-square&logo=git&logoColor=white" />
 
 ---
 
@@ -225,15 +251,14 @@ Designed with a clean, modern aesthetic utilizing custom CSS styling and interac
 
 ```yaml
 Learning:
-  - Advanced Full Stack Web Development Architectures
-  - Modern Frontend Framework Patterns & State Management
+  - Advanced Data Structures and Competitive Programming Optimization
+  - Scalable Full-Stack System Design and Cloud Deployment
 Building:
-  - Hyperlocal Festive-Aware Demand AI System
-  - Responsive Web Portfolios and User Interfaces
+  - Machine Learning Powered Web Solutions and Automation Tools
+  - Algorithmic Problem Solving and Efficient Backend Pipelines
 Exploring:
-  - Open Source Contribution Workflows
-  - Cloud Deployment Platforms (Vercel, Netlify, Render)
+  - Computer Vision Applications and Deep Learning Frameworks
 Open To:
-  - Software Developer Roles
-  - Frontend Engineering Opportunities
-  - Collaborative Open Source Projects
+  - Software Engineering Internships
+  - Machine Learning Roles
+  - Open Source Collaboration

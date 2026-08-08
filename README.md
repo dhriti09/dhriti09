@@ -163,7 +163,7 @@ A real-time computer vision application that detects hand gestures through a web
 
 🔗 Repository
 
-https://github.com/dhriti09
+[https://github.com/dhriti09](https://github.com/dhriti09/Gesture-Volume-Control.git)
 
 </details>
 
@@ -192,7 +192,8 @@ A machine learning application that classifies news articles as **Real** or **Fa
 
 🔗 Repository
 
-https://github.com/dhriti09/Fake-News-Detector
+[https://github.com/dhriti09/Fake-News-Detector](https://github.com/dhriti09/Fake-News-Detector.git)
+[https://fake-news-detector-gh5ey3pw29ext2ppkshyrz.streamlit.app/](https://fake-news-detector-gh5ey3pw29ext2ppkshyrz.streamlit.app/)
 
 </details>
 
@@ -221,7 +222,8 @@ A full-stack web application that predicts Air Quality Index (AQI) using machine
 
 🔗 Live Demo
 
-https://air-quality-index-prediction-using.onrender.com
+[[https://air-quality-index-prediction-using.onrender.com](https://github.com/dhriti09/Air-Quality-Index-Predictor.git)]
+[https://air-quality-index-prediction-using.onrender.com](https://air-quality-index-prediction-using.onrender.com)
 
 </details>
 

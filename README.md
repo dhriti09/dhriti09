@@ -104,6 +104,7 @@ Alongside development, I actively improve my problem-solving skills through comp
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -133,11 +134,64 @@ Alongside development, I actively improve my problem-solving skills through comp
 | Machine Learning | Intermediate | Scikit-Learn, XGBoost |
 | Computer Vision | Intermediate | OpenCV, MediaPipe |
 | NLP | Beginner | TF-IDF, Scikit-Learn |
+| Generative AI | Beginner | Google Gemini API |
 | Model Deployment | Intermediate | Flask, Streamlit |
 
 ---
 
 # Featured Projects
+
+<details>
+
+<summary><b>📚 LearNova – Online Learning Platform</b></summary>
+
+### Overview
+
+A full-stack MERN e-learning platform supporting course discovery, enrollment, and instructor content management.
+
+| Category | Details |
+|------------|---------|
+| Stack | MongoDB, Express.js, React.js, Node.js |
+| Type | Full Stack Web App |
+| Features | Course Discovery, Enrollment, Instructor Dashboard, Role-Based Access |
+
+### Highlights
+
+- Built RESTful APIs for user and course management.
+- Implemented role-based workflows for students and instructors.
+- Designed a responsive React.js frontend connected to a Node.js/Express.js backend.
+
+🔗 Repository & Live Demo — see GitHub and Portfolio links above
+
+</details>
+
+---
+
+<details>
+
+<summary><b>📖 Library Management System</b></summary>
+
+### Overview
+
+A web application for managing book inventory, borrowing, returns, donations, and issued-book tracking.
+
+| Category | Details |
+|------------|---------|
+| Stack | Flask, SQLite, Bootstrap 5 |
+| Type | Full Stack Web App |
+| Features | Inventory Management, Borrow/Return Tracking, Session Handling |
+
+### Highlights
+
+- Implemented database operations and server-side routing with Flask and SQLite.
+- Added session handling for user-specific actions.
+- Built a responsive interface using Bootstrap 5.
+
+🔗 Repository & Live Demo — see GitHub and Portfolio links above
+
+</details>
+
+---
 
 <details>
 
@@ -258,20 +312,31 @@ To build a practical machine learning solution that can help small retailers mak
 ---
 # 💼 Experience & Training
 
+## Artificial Intelligence Virtual Intern | IBM
+
+**June 2026 – July 2026**
+
+Applied machine learning workflows including data preprocessing, text vectorization, model training, and evaluation using Python and Scikit-learn, and developed a Fake News Detection solution using NLP and TF-IDF-based classification.
+
+**Skills:** Python • Scikit-learn • NLP • TF-IDF • Model Evaluation
+
+---
+
 ## Web Developer Intern | Code Resite Pvt. Ltd.
 
 **June 2025 – July 2025**
 
-Worked on backend development for web applications while collaborating with the development team to improve application functionality and maintain code quality.
+Worked on backend development for web applications while collaborating with the development team to improve application functionality and maintain code quality. Developed an AI-powered Code Reviewer using the MERN stack and the Google Gemini API to analyze source code and generate improvement suggestions.
 
 ### Responsibilities
 
 - Developed backend APIs to support web application features.
-- Integrated databases for efficient data storage and retrieval.
+- Built React.js interfaces and Node.js/Express.js REST APIs with MongoDB for code submission and automated review workflows.
+- Integrated the Google Gemini API to power AI-based code review suggestions.
 - Used Git for version control and collaborative development.
 - Assisted in debugging and improving backend functionality.
 
-**Skills:** Flask • REST APIs • Git • Backend Development • Database Integration
+**Skills:** Flask • React.js • Node.js/Express.js • MongoDB • Google Gemini API • REST APIs • Git • Backend Development
 
 ---
 
@@ -291,6 +356,14 @@ Completed institutional training focused on Python programming fundamentals and 
 
 ---
 
+## Full Stack Development Training | Digital Heroes
+
+**July 2026**
+
+Completed hands-on full stack development training covering frontend, backend, and deployment workflows.
+
+---
+
 # 🏆 Achievements
 
 <div align="center">
@@ -301,6 +374,7 @@ Completed institutional training focused on Python programming fundamentals and 
 | 🏅 LeetCode | Achieved a **1625** rating. |
 | ⭐ CodeChef | Earned a **2★** rating with a peak rating of **1542**. |
 | 🏆 Coding Competition | Winner of **E-BOX Top Coders 2025–26**. |
+| 🎬 Smart India Hackathon | Shortlisted for the college presentation round with an AI-powered movie booking system. |
 
 </div>
 
@@ -317,6 +391,19 @@ Completed institutional training focused on Python programming fundamentals and 
 <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-IBM%20Virtual%20Internship-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</div>
+
+---
+
+# 🎓 Community
+
+<div align="center">
+
+**IEEE Member** — United Institute of Technology, Prayagraj
+Contributed to technical events including ENIGMA XII and ENIGMA XIII.
 
 </div>
 
@@ -394,6 +481,7 @@ Building:
 Exploring:
   - Computer Vision
   - Model Deployment using Flask & Streamlit
+  - Generative AI (Google Gemini API)
   - Open Source Contributions
 
 Open To:

@@ -139,21 +139,6 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
   * [Live Demo](https://fake-news-detector-gh5ey3pw29ext2ppkshyrz.streamlit.app/)
 </details>
 
-<details>
-<summary><b>🌫 Air Quality Index Predictor</b></summary>
-
-* **Stack:** Python, Flask, XGBoost, React, REST API
-* **Highlights:** 
-  * Processed environmental datasets using Pandas/NumPy and trained an XGBoost regression model with a React dashboard.
-  * [Live Demo](https://air-quality-index-prediction-using.onrender.com)
-</details>
-
-<details>
-<summary><b>🎨 64 MAG – Premium Packaging Concept</b></summary>
-
-* **Tools:** Figma, Canva
-* **Highlights:** Developed a minimal contemporary visual system focusing on typography, grid layouts, and visual hierarchy.
-</details>
 
 <details>
 <summary><b>🚧 Hyperlocal Festive-Aware Demand AI (WIP)</b></summary>

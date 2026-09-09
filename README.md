@@ -243,4 +243,3 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=120&section=footer"/>
 
 </div>
- yeh theek kro

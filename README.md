@@ -139,7 +139,6 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
   * [Live Demo](https://fake-news-detector-gh5ey3pw29ext2ppkshyrz.streamlit.app/)
 </details>
 
-
 <details>
 <summary><b>🚧 Hyperlocal Festive-Aware Demand AI (WIP)</b></summary>
 
@@ -208,10 +207,6 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhriti09&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/dhriti09/dhriti09/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

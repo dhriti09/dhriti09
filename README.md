@@ -198,16 +198,12 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dhriti09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=dhriti09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhriti09&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhriti09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhriti09&theme=tokyo-night&hide_border=true&area=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhriti09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 

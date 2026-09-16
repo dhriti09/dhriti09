@@ -106,37 +106,37 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 <summary><b>📚 LearNova – Online Learning Platform</b></summary>
 
 * **Stack:** MongoDB, Express.js, React.js, Node.js
-* **Highlights:** 
-  * Built RESTful APIs for user and course management.
-  * Implemented role-based workflows for students and instructors.
-  * Designed a responsive React.js frontend connected to a Node.js/Express.js backend.
+* **Highlights:** 
+  * Built RESTful APIs for user and course management.
+  * Implemented role-based workflows for students and instructors.
+  * Designed a responsive React.js frontend connected to a Node.js/Express.js backend.
 </details>
 
 <details>
 <summary><b>📖 Library Management System</b></summary>
 
 * **Stack:** Flask, SQLite, Bootstrap 5
-* **Highlights:** 
-  * Implemented database operations and server-side routing with Flask and SQLite.
-  * Added session handling for user-specific actions and a responsive Bootstrap UI.
+* **Highlights:** 
+  * Implemented database operations and server-side routing with Flask and SQLite.
+  * Added session handling for user-specific actions and a responsive Bootstrap UI.
 </details>
 
 <details>
 <summary><b>🖐 AI Gesture Volume Control</b></summary>
 
 * **Stack:** Python, OpenCV, MediaPipe, Pycaw, NumPy
-* **Highlights:** 
-  * Real-time hand landmark detection using MediaPipe to control Windows system volume via finger distance tracking.
-  * [Repository Link](https://github.com/dhriti09/Gesture-Volume-Control.git)
+* **Highlights:** 
+  * Real-time hand landmark detection using MediaPipe to control Windows system volume via finger distance tracking.
+  * [Repository Link](https://github.com/dhriti09/Gesture-Volume-Control.git)
 </details>
 
 <details>
 <summary><b>📰 Fake News Detector</b></summary>
 
 * **Stack:** Python, Scikit-Learn, TF-IDF, Streamlit
-* **Highlights:** 
-  * Classified news articles using NLP text preprocessing and Scikit-Learn models.
-  * [Live Demo](https://fake-news-detector-gh5ey3pw29ext2ppkshyrz.streamlit.app/)
+* **Highlights:** 
+  * Classified news articles using NLP text preprocessing and Scikit-Learn models.
+  * [Live Demo](https://fake-news-detector-gh5ey3pw29ext2ppkshyrz.streamlit.app/)
 </details>
 
 
@@ -151,12 +151,12 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 
 # 💼 Experience & Training
 
-* **Artificial Intelligence Virtual Intern | IBM** *(June 2026 – July 2026)*  
-  Applied ML workflows, text vectorization, and model evaluation using Python/Scikit-learn. Developed a Fake News Detection solution using NLP.
-* **Web Developer Intern | Code Resite Pvt. Ltd.** *(June 2025 – July 2025)*  
-  Built MERN stack applications, REST APIs, and integrated the Google Gemini API for an AI-powered code reviewer.
-* **Full Stack Development Training | Digital Heroes** *(July 2026)*  
-* **Python Training | United Institute of Technology** *(June 2023 – July 2023)*  
+* **Artificial Intelligence Virtual Intern | IBM** *(June 2026 – July 2026)*  
+  Applied ML workflows, text vectorization, and model evaluation using Python/Scikit-learn. Developed a Fake News Detection solution using NLP.
+* **Web Developer Intern | Code Resite Pvt. Ltd.** *(June 2025 – July 2025)*  
+  Built MERN stack applications, REST APIs, and integrated the Google Gemini API for an AI-powered code reviewer.
+* **Full Stack Development Training | Digital Heroes** *(July 2026)*  
+* **Python Training | United Institute of Technology** *(June 2023 – July 2023)*  
 
 ---
 
@@ -189,8 +189,8 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 
 # 🎓 Community & Involvement
 
-* **IEEE Member — United Institute of Technology, Prayagraj**  
-  Contributed to technical events including **ENIGMA XII** and **ENIGMA XIII**.
+* **IEEE Member — United Institute of Technology, Prayagraj**  
+  Contributed to technical events including **ENIGMA XII** and **ENIGMA XIII**.
 
 ---
 

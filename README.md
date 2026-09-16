@@ -151,12 +151,12 @@ I enjoy turning ideas into working solutions across full-stack applications, mac
 
 # 💼 Experience & Training
 
-* **Artificial Intelligence Virtual Intern | IBM** *(June 2026 – July 2026)*  
+* **Artificial Intelligence Virtual Intern | IBM** *(June 2026 – Aug 2026)*  
   Applied ML workflows, text vectorization, and model evaluation using Python/Scikit-learn. Developed a Fake News Detection solution using NLP.
-* **Web Developer Intern | Code Resite Pvt. Ltd.** *(June 2025 – July 2025)*  
+* **Web Developer Intern | Code Resite Pvt. Ltd.** *(June 2025 – Aug 2025)*  
   Built MERN stack applications, REST APIs, and integrated the Google Gemini API for an AI-powered code reviewer.
 * **Full Stack Development Training | Digital Heroes** *(July 2026)*  
-* **Python Training | United Institute of Technology** *(June 2023 – July 2023)*  
+* **Python Training | United Institute of Technology** *(June 2024 – Aug 2024)*  
 
 ---
 
